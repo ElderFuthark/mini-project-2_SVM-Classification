@@ -1,0 +1,2 @@
+# Ignore checkpoint files since we're using git for version control.
+**/.ipynb_checkpoints

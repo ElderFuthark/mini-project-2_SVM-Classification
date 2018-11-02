@@ -1,3 +1,3 @@
-# SVM Classification
+# Support Vector Machine (SVM) Classification
 
-The jupyter notebook found herein is an exploration of Support Vector Machines and their application. For simplicity, a small data set has been used. It is available at https://archive.ics.uci.edu/ml/datasets/iris
+SVM classification is particularly good at dealing with smaller data sets and dealing with multiple dimensions. This repository is an exploration of SVM's. The end goal is to classify three types of flowers based on their features. Visit https://archive.ics.uci.edu/ml/datasets/iris to download the dataset used here (and many more as well).

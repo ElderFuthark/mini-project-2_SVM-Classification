@@ -1,1 +1,3 @@
-# mini-project-2_SVM-Classification
+# SVM Classification
+
+The jupyter notebook found herein is an exploration of Support Vector Machines and their application. For simplicity, a small data set has been used, which can be found at https://archive.ics.uci.edu/ml/datasets/iris
